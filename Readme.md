@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Юлия Богданова](https://up.htmlacademy.ru/htmlcss/36/user/2313713).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Попов](https://htmlacademy.ru/profile/joker).
 
 ---
 
